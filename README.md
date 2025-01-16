@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Puvanakopis</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+const thai = {
+<p><em>Software Enginner at <a href="https://www.sab.ac.lk">Sabaragamuwa University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
+
 - 🔭 I’m currently working on **Yummi**
 
 - 🌱 I’m currently learning **React JS**

@@ -11,11 +11,7 @@
 <br>
 
 
-- 🔭 I’m currently working on **Yummi**
-
 - 🌱 I’m currently learning **React JS**
-
-- 👯 I’m looking to collaborate on [Foodi](https://foodi-860506298.development.catalystserverless.com/app/)
 
 - 📫 How to reach me **puvanakopis@gmail.com**
 

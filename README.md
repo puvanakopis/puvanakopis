@@ -1,7 +1,7 @@
 # 💫 About Me:
  👤 About Me<br>💻 I'm currently working on An AI-powered ATM security system that uses real-time face detection and object recognition to identify masked or helmeted individuals, aiming to enhance safety and enable instant alerts to centralized monitoring centers.<br><br>❓ I'm looking for help with<br>Deep learning model optimization and backend integration for AI-based web platforms.<br><br>📚 I'm currently learning<br>Advanced Python, machine learning (with a focus on medical imaging), and front-end.<br><br>💬 Ask me about<br>Front-end development, building responsive UI with React & Tailwind CSS, or how to blend AI into real-world web applications.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/puvanakopis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/puvanakopis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puvanakopis) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/puvanakopis) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puvanakopis@gmail.com) 
 
 # 💻 Tech Stack:

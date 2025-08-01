@@ -1,8 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm **Puvana**, a passionate developer blending AI with practical web solutions.  
-
-🚀 **Currently Building**:  
-An **AI-powered ATM security system** that uses real-time face detection and object recognition to identify masked/helmeted individuals, enhancing safety with instant alerts to monitoring centers.  
+👋 Hi there! I'm **Puvanakopis**, a passionate developer blending AI with practical web solutions.  
 
 📖 **Currently Learning**:  
 - Advanced Python & Machine Learning (focus on medical imaging)  

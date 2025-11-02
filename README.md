@@ -3,6 +3,10 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=007ACC&width=435&lines=Enthusiastic+Software+Engineering+Undergraduate;AI+%2B+Web+Developer;Turning+Ideas+into+Digital+Products)
 
+
+[![](https://visitcount.itsvg.in/api?id=puvanakopis&label=Profile%20Views&color=1DA1F2&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
+
 💻 BSc (Hons) Software Engineering Undergraduate | Freelance Full-Stack Developer | AI Enthusiast  
 
 I'm passionate about **Data Science, Machine Learning, and intelligent systems using RAG pipelines**.  
@@ -51,7 +55,5 @@ I'm passionate about **Data Science, Machine Learning, and intelligent systems u
 ![](https://github-profile-trophy.vercel.app/?username=puvanakopis&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=puvanakopis&label=Profile%20Views&color=1DA1F2&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 ✨ **“The best way to predict the future is to create it.” – Peter Drucker** ✨

@@ -1,11 +1,12 @@
-# 💫 About Me
-👋 Hi, I'm **Puvanakopis**  
+# 👋 Hi, I'm Puvanakopis
+
+
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=007ACC&width=435&lines=Enthusiastic+Software+Engineering+Undergraduate;AI+%2B+Web+Developer;Turning+Ideas+into+Digital+Products)
 
 
 [![](https://visitcount.itsvg.in/api?id=puvanakopis&label=Profile%20Views&color=1DA1F2&icon=6&pretty=true)](https://visitcount.itsvg.in)
-
 
 💻 BSc (Hons) Software Engineering Undergraduate | Freelance Full-Stack Developer | AI Enthusiast  
 
@@ -19,23 +20,32 @@ I'm passionate about **Data Science, Machine Learning, and intelligent systems u
 
 # 🧰 Tech Stack
 
+### 🤖 AI / ML Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace_Transformers-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-%2300A37D.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+
+---
+
 ### 🖥 Frontend
 ![React](https://img.shields.io/badge/react-%230073B5.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%230EA5E9.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙ Backend & AI
-![Python](https://img.shields.io/badge/python-%230077B5?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%230077B5.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+---
 
-### 🗄 Databases & Tools
-![MongoDB](https://img.shields.io/badge/mongodb-%230073B5.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%230059C2.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%2300BFFF.svg?style=for-the-badge&logo=docker&logoColor=white)
+### ⚙ Backend
+![Node.js](https://img.shields.io/badge/Node.js-%23026E00.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/mysql-%230059C2.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%230073B5.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 # 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puvanakopis) 
@@ -56,4 +66,4 @@ I'm passionate about **Data Science, Machine Learning, and intelligent systems u
 
 ---
 
-✨ **“The best way to predict the future is to create it.” – Peter Drucker** ✨
+✨ **“A smooth sea never made a skilled sailor.” – Franklin D. Roosevelt** ✨

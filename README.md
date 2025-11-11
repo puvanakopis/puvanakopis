@@ -8,6 +8,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=puvanakopis&label=Profile%20Views&color=1DA1F2&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=puvanakopis&label=Profile%20views&color=0e75b6&style=flat" alt="puvanakopis" />
+</p>
+
+
 💻 BSc (Hons) Software Engineering Undergraduate | Freelance Full-Stack Developer | AI Enthusiast  
 
 I'm passionate about **Data Science, Machine Learning, and intelligent systems using RAG pipelines**.  

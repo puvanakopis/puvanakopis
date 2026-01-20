@@ -1,74 +1,123 @@
 # 👋 Hi, I'm Puvanakopis
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=007ACC&width=600&lines=Frontend+Developer;React+%26+UI+Engineer;Building+Modern+Web+Experiences)
 
+<div align="left">
 
+[![](https://visitcount.itsvg.in/api?id=puvanakopis&label=Profile%20Views&color=007ACC&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=007ACC&width=435&lines=Enthusiastic+Software+Engineering+Undergraduate;AI+%2B+Web+Developer;Turning+Ideas+into+Digital+Products)
+<img src="https://komarev.com/ghpvc/?username=puvanakopis&label=Profile%20views&color=007ACC&style=flat" alt="puvanakopis" />
 
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=puvanakopis&label=Profile%20Views&color=1DA1F2&icon=6&pretty=true)](https://visitcount.itsvg.in)
+---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=puvanakopis&label=Profile%20views&color=0e75b6&style=flat" alt="puvanakopis" />
+🎨 **Frontend Developer | UI Engineer | Software Engineering Undergraduate**
+
+I specialize in **building responsive, accessible, and user-centric web interfaces** using modern frontend technologies.  
+My focus is on **clean UI design, performance optimization, and scalable frontend architectures**.
+
+🌱 **Currently Learning:** Advanced React Patterns, TypeScript, Frontend Performance Optimization  
+💡 **Interests:** UI/UX Design, Component-Based Architectures, Design Systems  
+⚡ **Frontend Philosophy:** Clean UI + Smooth UX = Great Product  
+
+---
+
+## 🎨 Frontend Development Tech Stack
+
+<div style="margin: 15px 0;">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redux" width="45"/><br>Redux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📱 Frontend for Mobile & Responsive UI
+
+<div style="margin: 15px 0;">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React Native</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="45"/><br>Android Studio</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>NativeWind</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🧩 UI Engineering & Design Skills
+
+- Responsive Web Design (Mobile-first)
+- Component-driven Development
+- State Management (Redux)
+- REST API Integration
+- UI Consistency & Design Systems
+- Accessibility (a11y) Best Practices
+- Cross-browser Compatibility
+- Performance Optimization
+
+---
+
+## 🛠️ Frontend Tools & Workflow
+
+<div style="margin: 15px 0;">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br>Postman</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="45"/><br>Netlify</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div style="margin: 20px 0;">
+<a href="https://linkedin.com/in/puvanakopis" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+<a href="https://puvanakopis.github.io/portfolio/" target="_blank">
+<img src="https://skillicons.dev/icons?i=netlify" width="45"/>
+</a>
+<a href="mailto:puvanakopis@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+</div>
+
+---
+
+## 📊 GitHub Frontend Stats
+
+<div style="margin: 30px 0;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=puvanakopis&theme=blue_navy&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puvanakopis&layout=compact&theme=blue_navy&hide_border=false" height="180"/>
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=puvanakopis&theme=blue_navy&no-frame=false&margin-w=4" />
+
+---
+
+<div style="margin-top: 40px; padding: 20px; background: linear-gradient(135deg, #007ACC 0%, #1E3A8A 100%); border-radius: 10px;">
+<p style="color: white; text-align: center; font-size: 1.1em; margin: 0;">
+<b>"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs</b>
 </p>
-
-
-💻 BSc (Hons) Software Engineering Undergraduate | Freelance Full-Stack Developer | AI Enthusiast  
-
-I'm passionate about **Data Science, Machine Learning, and intelligent systems using RAG pipelines**.  
-
-🌱 **Currently Learning:** Advanced Python & Machine Learning, Frontend frameworks, Cloud Deployment  
-💡 **Interests:** AI + Web Development, Full-Stack Projects  
-⚡ **Fun fact:** I love integrating AI into web applications!  
-
----
-
-# 🧰 Tech Stack
-
-### 🤖 AI / ML Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace_Transformers-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-%2300A37D.svg?style=for-the-badge&logo=chainlink&logoColor=white)
-
----
-
-### 🖥 Frontend
-![React](https://img.shields.io/badge/react-%230073B5.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%230EA5E9.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### ⚙ Backend
-![Node.js](https://img.shields.io/badge/Node.js-%23026E00.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/mysql-%230059C2.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%230073B5.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-# 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puvanakopis) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300A3E0.svg?logo=google-chrome&logoColor=white)](https://puvanakopis.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-1DA1F2?logo=gmail&logoColor=white)](mailto:puvanakopis@gmail.com)
-
----
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=puvanakopis&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=puvanakopis&theme=blue_navy&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=puvanakopis&theme=blue_navy&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=puvanakopis&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-✨ **“A smooth sea never made a skilled sailor.” – Franklin D. Roosevelt** ✨
+</div>

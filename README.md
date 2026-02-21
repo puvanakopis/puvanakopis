@@ -1,8 +1,14 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> Hi, I'm Puvanakopis
-
 <div align="center">
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> 
+    Hi, I'm Puvanakopis
+  </h1>
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=Full-Stack+Architect;Cloud+%26+DevOps+Engineer;AI+%26+RAG+Developer;Building+the+Future+of+Web" alt="Typing SVG" />
+
 </div>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=puvanakopis&label=PROFILE+VIEWS&color=007ACC&style=for-the-badge" />
@@ -32,7 +38,7 @@
 
 ### 🛠️ Programming Languages
 <div style="margin: 15px 0;">
-<table>
+<table >
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>

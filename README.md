@@ -4,7 +4,7 @@
     Hi, I'm Puvanakopis
   </h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=Full-Stack+Architect;Cloud+%26+DevOps+Engineer;AI+%26+RAG+Developer;Building+the+Future+of+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;AI+Agent+Developer;Data+Analyst;Full-Stack+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -15,22 +15,32 @@
   <img src="https://img.shields.io/github/followers/puvanakopis?label=FOLLOWERS&style=for-the-badge&color=1E3A8A" />
 </p>
 
----
-
 ## 💫 About Me
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <p>🚀 <b>Software Engineering Undergraduate</b> specializing in building scalable, distributed systems and high-performance RAG pipelines.</p>
-      <p>🎨 <b>Design Philosophy:</b> I believe code is the bridge between imagination and reality. I build with precision, scale, and user experience in mind.</p>
-      <p>⚡ <b>Fun Fact:</b> I treat every <code>docker-compose.yml</code> like a symphony conductor.</p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt6ZzB6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="anime boy coding gif" />
+
+```json
+{
+  "name"      : "Puvanakopis",
+  "role"      : "AI/ML Engineer",
+  "location"  : "Sri Lanka 🇱🇰",
+  "focus"     : [
+                    "Agentic Workflows",
+                    "RAG Pipelines",
+                    "LLM Systems",
+                    "Data Analytics"
+                  ],
+  "currently_learning" : [
+                            "Multi-Agent Systems",
+                            "AI Infrastructure",
+                            "Cloud Deployment"
+                          ],
+  "open_to"   : "Internships, Freelancing & Collaborations"
+}
+```
+
+<br clear="right"/>
+
 
 ---
 
@@ -101,7 +111,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=puvanakopis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=puvanakopis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ### 🐍 Contribution Activity
@@ -115,7 +125,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/puvanakopis)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://puvanakopis.github.io/portfolio/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://puvanakopis.vercel.app/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puvanakopis@gmail.com)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
